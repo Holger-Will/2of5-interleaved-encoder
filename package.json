@@ -1,0 +1,30 @@
+{
+  "name": "2of5-interleaved-encoder",
+  "version": "0.1.0",
+  "description": "barcode,encoder,2of5,2of5-interleaved,barcode-framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barcode-framework/2of5-interleaved-encoder.git"
+  },
+  "keywords": [
+    "barcode",
+    "encoder",
+    "2of5",
+    "2of5-interleaved",
+    "barcode-framework"
+  ],
+  "author": "Holger Will",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/barcode-framework/2of5-interleaved-encoder/issues"
+  },
+  "homepage": "https://github.com/barcode-framework/2of5-interleaved-encoder#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
